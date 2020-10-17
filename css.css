@@ -1,0 +1,25 @@
+nav{
+	text-align: center;
+	background-color: #ff9642;
+	width: 100%;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  padding: 0px 20px;
+}
+body {
+	background-color: #fff8cd;
+	font-family: 'roboto';
+	margin-left: 20%;
+	margin-right: 20%;
+}
+li {
+	list-style-type: none;
+	margin-bottom: 20px;
+}
